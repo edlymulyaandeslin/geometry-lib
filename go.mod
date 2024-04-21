@@ -1,3 +1,3 @@
-module github.com/edlymulyaandeslin/geometry-lib
+module geometry-lib
 
 go 1.22.0
